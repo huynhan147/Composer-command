@@ -1,15 +1,15 @@
 # *Bài tập Trainee Colombo 2018*
 Thực hiện bởi [Nguyễn Phi Huy](https://github.com/huynhan147)
 # Global Options
-**--verbose (-v)**: Hiện một messages dài
-**--help (-h)**: Hiển thị thông tin trợ giúp
-**--quiet (-q)**: Không xuất ra bất kỳ thông báo nào trong khi chạy lệnh
-**--no-plugins**: Tắt plugin.
-**--working-dir (-d)**: Chỉ định thư mục làm việc
-**--profile**: Hiển thị thời gian và thông tin sử dụng bộ nhớ
-**--ansi**: Xuất kết quả với đầu ra là encoding là ANSI
-**--no-ansi**: Vô hiệu hóa việc xuất kết quả với đầu ra là mã ANSI
-**--version (-V)**: Hiển thị phiên bản của composer.
+- **--verbose (-v)**: Hiện một messages dài
+- **--help (-h)**: Hiển thị thông tin trợ giúp 
+- **--quiet (-q)**: Không xuất ra bất kỳ thông báo nào trong khi chạy lệnh
+- **--no-plugins**: Tắt plugin.
+- **--working-dir (-d)**: Chỉ định thư mục làm việc
+- **--profile**: Hiển thị thời gian và thông tin sử dụng bộ nhớ
+- **--ansi**: Xuất kết quả với đầu ra là encoding là ANSI
+- **--no-ansi**: Vô hiệu hóa việc xuất kết quả với đầu ra là mã ANSI
+- **--version (-V)**: Hiển thị phiên bản của composer.
 # Các câu lệnh
 ## **init** : Tạo file `composer.json` nhằm khai báo package
 - Tùy chọn: 
